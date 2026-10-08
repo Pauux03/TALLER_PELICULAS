@@ -62,6 +62,7 @@ src/
 - CSS
 
 ## Enlace de la aplicación
+https://taller-peliculas.vercel.app
 
 
 
